@@ -1,0 +1,6 @@
+{
+  "name": "Rajpoot Films",
+  "description": "Elegant photography and cinematography studio website featuring a premium portfolio gallery, streamlined booking engine, and rich customer testimonials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
